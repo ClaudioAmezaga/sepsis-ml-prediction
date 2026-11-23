@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+xgboost
+shap
+
+# Private SQL Server integration
+SQLAlchemy
+pyodbc
+
+# Notebook, progress bars, and input spreadsheets
+ipython
+ipykernel
+jupyterlab
+tqdm
+openpyxl
